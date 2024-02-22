@@ -91,6 +91,7 @@ a {
   	width: 250px;
   	height: 5px;
 	cursor: text;
+	font-family: "Montserrat";
 }
 
 .input2 {
@@ -102,6 +103,7 @@ a {
   	width: 200px;
   	height: 5px;
 	cursor: text;
+	font-family: "Montserrat";
 }
 
 .input3 {
@@ -113,6 +115,7 @@ a {
   	width: 100px;
   	height: 5px;
 	cursor: text;
+	font-family: "Montserrat";
 }
 
 .input4 {
@@ -124,6 +127,7 @@ a {
   	width: 50px;
   	height: 5px;
 	cursor: text;
+	font-family: "Montserrat";
 }
 
 .input5 {
@@ -135,6 +139,7 @@ a {
   	width: 500px;
   	height: 10px;
 	cursor: text;
+	font-family: "Montserrat";
 }
 
 .Montserrat {
