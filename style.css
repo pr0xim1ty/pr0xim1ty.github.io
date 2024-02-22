@@ -95,7 +95,7 @@ a {
 }
 
 .input2 {
-	color: rgba(0, 0, 100);
+	color: rgba(0, 0, 0, 100);
 	background: rgba(250, 225, 200, 100);
 	border: none;
 	border-radius: 5px;
@@ -107,7 +107,7 @@ a {
 }
 
 .input3 {
-	color: rgba(0, 0, 0, 0);
+	color: rgba(0, 0, 0, 100);
 	background: rgba(250, 225, 200, 100);
 	border: none;
 	border-radius: 5px;
@@ -119,7 +119,7 @@ a {
 }
 
 .input4 {
-	color: rgba(0, 0, 0, 0);
+	color: rgba(0, 0, 0, 100);
 	background: rgba(250, 225, 200, 100);
 	border: none;
 	border-radius: 5px;
